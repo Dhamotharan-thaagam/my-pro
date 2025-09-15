@@ -5,7 +5,7 @@
 </div>
 
 <!-- ASCII ART -->
-<a href="https://github.com/LucasKazuhiro/LucasKazuhiro">
+<a href="https://github.com/Dhamotharan-thaagam">
   <picture>
     <img alt="ascii-profile" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_hybrid&w=740&q=80" width="100%">
   </picture>
