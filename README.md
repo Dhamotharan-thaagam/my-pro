@@ -1,4 +1,3 @@
-
 <!-- Badges -->
 <div align="left">
   <a href="https://wakatime.com/@D_tharan"><img src="https://wakatime.com/badge/user/22fc4045-0416-43b2-9647-dea8d4e91a54.svg?style=for-the-badge" alt="wakatime stats"></a>
